@@ -1,0 +1,7 @@
+.infos{
+    margin-right: 280px;
+    display: grid;
+    flex-direction: row;
+    justify-content: space-between;
+    position: relative;
+}

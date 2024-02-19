@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "lib": ["es5", "es6", "dom"],
+    "target": "ES2020",
+    "sourceMap": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "esModuleInterop": true,
+    "outDir": "dist",
+    "allowJs": true,
+  },
+  "allowImportingTsExtensions": true,
+  "include": ["**/*.ts"],
+  "exclude": ["node_modules", "dist", "public"]
+}
